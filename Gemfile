@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 gem 'rspec'
-
+gem 'rubocop', '~> 1.56', require: false
