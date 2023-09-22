@@ -2,7 +2,7 @@ require 'spec_helper'
 require '2_configuravel'
 
 RSpec.describe 'Hashes to string' do
-  it 'should return a correct string' do
+  it 'should return a correct string with 2 different format files' do
     args = [
       { name: 'Maria Neusa de Aparecida',
         cpf: '97905796671',
